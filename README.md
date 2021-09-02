@@ -1,2 +1,2 @@
-# Teszt-repo
+# teszt repo
 Info teszt repo
