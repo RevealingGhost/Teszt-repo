@@ -18,6 +18,7 @@ Az alapelv: **az első két szín adja a hangulatot, az akcentus a személyiség
 | `python/mood_palettes.py` | matplotlib + plotly: `from mood_palettes import use; use("visionary")` |
 | `tokens.json` | Platformfüggetlen token-forrás (minden más ebből készült) |
 | `kombinacios-labor.md` | Mind a 36 színpár és mind a 18 szereposztás mérési eredménye |
+| `examples/*.html` | Három példa-dashboard (Citrus, Electric, Visionary) fiktív mintaadattal, böngészőben megnyitható |
 
 ## Színhasználat röviden
 
