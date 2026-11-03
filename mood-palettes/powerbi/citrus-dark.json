@@ -1,0 +1,220 @@
+{
+  "name": "Mood Palettes – Citrus (sötét)",
+  "dataColors": [
+    "#129a75",
+    "#fa5617",
+    "#2b87d9",
+    "#ca5091",
+    "#bb8d13",
+    "#149eab"
+  ],
+  "background": "#061f17",
+  "foreground": "#eef5f0",
+  "tableAccent": "#129a75",
+  "backgroundLight": "#0b2a20",
+  "foregroundNeutralSecondary": "#b8cac1",
+  "foregroundNeutralTertiary": "#8ea399",
+  "backgroundNeutral": "#16352a",
+  "good": "#3fcf3f",
+  "neutral": "#fab219",
+  "bad": "#ff7b7b",
+  "maximum": "#c1f6e0",
+  "center": "#32a984",
+  "minimum": "#024936",
+  "null": "#3a5a4d",
+  "hyperlink": "#129a75",
+  "visitedHyperlink": "#129a75",
+  "textClasses": {
+    "callout": {
+      "fontSize": 32,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#eef5f0"
+    },
+    "title": {
+      "fontSize": 13,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#eef5f0"
+    },
+    "header": {
+      "fontSize": 12,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#eef5f0"
+    },
+    "label": {
+      "fontSize": 10,
+      "fontFace": "Segoe UI",
+      "color": "#8ea399"
+    }
+  },
+  "visualStyles": {
+    "page": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#02140d"
+              }
+            },
+            "transparency": 0
+          }
+        ],
+        "outspace": [
+          {
+            "color": {
+              "solid": {
+                "color": "#02140d"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "*": {
+      "*": {
+        "background": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#061f17"
+              }
+            },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#16352a"
+              }
+            },
+            "radius": 8
+          }
+        ],
+        "title": [
+          {
+            "show": true,
+            "fontColor": {
+              "solid": {
+                "color": "#eef5f0"
+              }
+            },
+            "fontSize": 12
+          }
+        ],
+        "categoryAxis": [
+          {
+            "gridlineShow": false,
+            "labelColor": {
+              "solid": {
+                "color": "#8ea399"
+              }
+            },
+            "axisLineColor": {
+              "solid": {
+                "color": "#2c4d40"
+              }
+            }
+          }
+        ],
+        "valueAxis": [
+          {
+            "gridlineShow": true,
+            "gridlineColor": {
+              "solid": {
+                "color": "#16352a"
+              }
+            },
+            "gridlineStyle": "solid",
+            "labelColor": {
+              "solid": {
+                "color": "#8ea399"
+              }
+            }
+          }
+        ],
+        "legend": [
+          {
+            "labelColor": {
+              "solid": {
+                "color": "#b8cac1"
+              }
+            }
+          }
+        ],
+        "dropShadow": [
+          {
+            "show": false
+          }
+        ]
+      }
+    },
+    "card": {
+      "*": {
+        "labels": [
+          {
+            "color": {
+              "solid": {
+                "color": "#eef5f0"
+              }
+            }
+          }
+        ],
+        "categoryLabels": [
+          {
+            "color": {
+              "solid": {
+                "color": "#8ea399"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "tableEx": {
+      "*": {
+        "columnHeaders": [
+          {
+            "fontColor": {
+              "solid": {
+                "color": "#eef5f0"
+              }
+            },
+            "backColor": {
+              "solid": {
+                "color": "#0b2a20"
+              }
+            }
+          }
+        ],
+        "values": [
+          {
+            "fontColorPrimary": {
+              "solid": {
+                "color": "#eef5f0"
+              }
+            },
+            "backColorPrimary": {
+              "solid": {
+                "color": "#061f17"
+              }
+            },
+            "fontColorSecondary": {
+              "solid": {
+                "color": "#eef5f0"
+              }
+            },
+            "backColorSecondary": {
+              "solid": {
+                "color": "#0b2a20"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
